@@ -1,4 +1,4 @@
-# Document-Contradiction-Detection-IndoBERT-LDA
+# Document-Contradiction-Detection-Gemini
 
 Analisis menyeluruh terhadap keselarasan antar peraturan-peraturan dengan norma dasar dan hierarki perundang-undangan penting untuk memastikan implementasi perubahan undang-undang berjalan efisien dan konsisten dengan sistem hukum yang berlaku.
 
