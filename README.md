@@ -4,6 +4,7 @@ Analisis menyeluruh terhadap keselarasan antar peraturan-peraturan dengan norma 
 
 Pada penelitian ini akan digunakan machine learning dan model AI dalam analisis keselarasan perundang-undangan untuk memfasilitasi identifikasi potensi disharmoni atau ketidakselarasan antar undang-undang bidang investasi dengan lebih efisien dan efektif. Metode yang akan digunakan untuk mengidentifikasi potensi disharmoni atau ketidakselarasan antar undang-undang adalah Latent Dirichlet Allocation (LDA) untuk clustering topik undang-undang dan Model Gemini 2.5 Flash untuk menilai hubungan antar ayat.
 
+![image (2)](https://github.com/user-attachments/assets/af205dc1-3a37-490a-90fb-0a6ac25d5243)
 
 ## Metodologi
 ![Image](https://github.com/user-attachments/assets/0f1f429f-bc05-4d30-991c-4c98290e78ba)
