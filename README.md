@@ -7,7 +7,7 @@ Pada penelitian ini akan digunakan machine learning dan model AI dalam analisis 
 ![image (2)](https://github.com/user-attachments/assets/af205dc1-3a37-490a-90fb-0a6ac25d5243)
 
 ## Metodologi
-![Image](https://github.com/user-attachments/assets/0f1f429f-bc05-4d30-991c-4c98290e78ba)
+![Prosedur Analisis](https://github.com/user-attachments/assets/6ae354d8-8350-4606-8938-60418e98c35c)
 
 Flowchart menggambarkan alur analisis data yang digunakan untuk mendeteksi potensi disharmoni pada peraturan perundang-undangan di bidang investasi. Proses dimulai dengan mengumpulkan dan mengekstraksi dokumen peraturan perundang-undangan yang digunakan pada penelitian ini. Kemudian dilakukan eksplorasi untuk melihat pola dan gambaran umum dari dokumen perundang-undangan yang digunakan. Selanjutnya, dokumen-dokumen ini akan melalui tahap pre-processing untuk membersihkan teks dan mengubahnya menjadi format yang lebih sesuai untuk analisis.
 
